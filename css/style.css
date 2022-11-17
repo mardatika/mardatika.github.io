@@ -1,0 +1,12 @@
+ul.a {
+	list-style-type: circle;
+}
+
+ol.c {
+	list-style-type: upper-roman;
+}
+
+ol.d{
+	list-style-type: lower-hexadecimal;
+}
+
